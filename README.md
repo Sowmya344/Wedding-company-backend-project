@@ -24,7 +24,8 @@ The goal of this project is to implement a REST API for managing organizations. 
 - **Authentication**: JWT (JSON Web Tokens) with BCrypt hashing
 - **Server**: Uvicorn
 
----
+<img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/cdc649a7-5084-40b8-8f7f-ccb4ec1d69d0" />
+
 
 ## 📂 Project Structure
 The project follows a modular, class-based design pattern.
